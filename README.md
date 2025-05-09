@@ -2,7 +2,6 @@
 
 Global Explorer is a sleek and modern travel booking application that allows users to browse and book various types of accommodations such as villas, hotels, apartments, and camps across different global destinations. The app is designed to deliver a clean, image-rich user experience with support for travel details, categories, and interactive browsing.
 
----
 
 ## 🚀 Overview
 
@@ -12,8 +11,7 @@ This app enables users to:
 - See key trip metadata such as duration, distance, cost, and timing
 - Navigate visually using a search bar and interactive UI components
 
----
-
+ 
 ## 📱 Features
 
 - 🔍 **Search Functionality** – Search by street, city, or address  
