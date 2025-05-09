@@ -1,14 +1,23 @@
-# 🌍 Global Explorer - Travel Booking App
+# 🌍 Travel Booking App
 
 Global Explorer is a sleek and modern travel booking application that allows users to browse and book various types of accommodations such as villas, hotels, apartments, and camps across different global destinations. The app is designed to deliver a clean, image-rich user experience with support for travel details, categories, and interactive browsing.
+
+---
+
+## 🚀 Overview
+
+This app enables users to:
+
+- View **popular travel destinations** with images and tour details
+- See key trip metadata such as duration, distance, cost, and timing
+- Navigate visually using a search bar and interactive UI components
 
 ---
 
 ## 📱 Features
 
 - 🔍 **Search Functionality** – Search by street, city, or address  
-- 🏷️ **Accommodation Categories** – Includes Villa, Hotel, Apartment, Beach, GuestHouse, Camp, Voucher, and More  
-- ⭐ **Popular Destinations** – Highlighted trips with detailed information and high-quality images  
+- 🏷️ **Accommodation Categories** – Includes Villa, Hotel, Apartment, Beach, GuestHouse, Camp, Voucher, and More   
 - 📆 **Tour Metadata** – Duration, distance, date, price, and time of tours  
 - 👤 **Tour Guide Info** – Includes guide name and contact trip details  
 - 📷 **Image Gallery** – Multiple photos for certain destinations
@@ -30,9 +39,9 @@ Global Explorer is a sleek and modern travel booking application that allows use
 
 ## 📸 Screenshots
 
-| Home Page | Search & Categories |
+| Home Page | Destination Details  |
 |-----------|---------------------|
-| ![Screen1](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083273/project215/cc4nfjsulmeuzlve8nxt.jpg) | ![Screen2](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083267/project215/ngeguxt0l2mv4koxjpdc.jpg) |
+| ![Screen1]([[https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083273/project215/cc4nfjsulmeuzlve8nxt.jpg](https://asset.cloudinary.com/dcpbuxikd/6b725b5fdd48f79d655f28e0154b93c3)](https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771725/Screenshot_20250509-111611_phs3ir.png)) | ![Screen2]([https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083267/project215/ngeguxt0l2mv4koxjpdc.jpg](https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771727/Screenshot_20250509-111626_dhxnos.png)) |
 
 ---
 
