@@ -17,7 +17,6 @@ This app enables users to:
 - 🔍 **Search Functionality** – Search by street, city, or address  
 - 🏷️ **Accommodation Categories** – Includes Villa, Hotel, Apartment, Beach, GuestHouse, Camp, Voucher, and More   
 - 📆 **Tour Metadata** – Duration, distance, date, price, and time of tours  
-- 👤 **Tour Guide Info** – Includes guide name and contact trip details  
 - 📷 **Image Gallery** – Multiple photos for certain destinations
 
 ---
