@@ -41,7 +41,7 @@ This app enables users to:
 
 | Home Page | Destination Details  |
 |-----------|---------------------|
-| ![Screen1](https://res.cloudinary.com/dcpbuxikda/image/upload/v1746771725/Screenshot_20250509-111611_phs3ir.png) | ![Screen2](https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771727/Screenshot_20250509-111626_dhxnos.png) |
+| ![Screen1](https://res.cloudinary.com/dcpbuxikda/image/upload/v1746771725/Screenshot_20250509-111611_phs3ir.png) | ![Screen2]() |
 
 ---
 
