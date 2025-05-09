@@ -40,7 +40,7 @@ This app enables users to:
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-<img src="https://res.cloudinary.com/dcpbuxikda/image/upload/v1746771725/Screenshot_20250509-111611_phs3ir.png" width="300"/>
+<img src="https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771725/Screenshot_20250509-111611_phs3ir.png" width="300"/>
 
 ### 🗺️ Destination Details
 <img src="https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771727/Screenshot_20250509-111626_dhxnos.png" width="300"/>
