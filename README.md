@@ -43,8 +43,6 @@ This app enables users to:
 ### 🗺️ Destination Details
 <img src="https://res.cloudinary.com/dcpbuxikd/image/upload/v1746771727/Screenshot_20250509-111626_dhxnos.png" width="300"/>
 
----
-
 
 ## ⚙️ Tech Stack (Suggested)
 
@@ -53,7 +51,20 @@ This app enables users to:
 - **Database:** Firebase Firestore   
 - **Hosting & Media:** Cloudinary (used), Firebase Hosting
 
+
 ---
 
-## 📂 Folder Structure (Suggested)
+## 📘 Future Enhancements
 
+- User authentication and account management  
+- Favorite/save destinations  
+- Booking and payment integration  
+- Notification system for tour updates
+
+---
+
+## 🧑‍💻 Author
+
+**Your Name**  
+[Linkedin](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
+📧 ahasanulmoniradar@gmail.com  
