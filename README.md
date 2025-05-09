@@ -65,6 +65,6 @@ This app enables users to:
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Ahasanul Monir Adar**  
 [Linkedin](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
 📧 ahasanulmoniradar@gmail.com  
