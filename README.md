@@ -17,19 +17,6 @@ Global Explorer is a sleek and modern travel booking application that allows use
 
 ## 🗂️ Dataset Structure
 
-### 📦 Categories
-
-| ID | Name        | Image |
-|----|-------------|-------|
-| 0  | Villa       | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083249/project215/ge06ek8uzj72x3jfi83b.png) |
-| 1  | Hotel       | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083258/project215/yz3yk2mlslv7maib0ybn.png) |
-| 2  | Apartment   | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083249/project215/hf33jodmaanjblj0rg9s.png) |
-| 3  | Beach       | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083373/project215/epwqylgwskunc8hhkgqb.png) |
-| 4  | GuestHouse  | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083260/project215/nyai8kfkwv0szjghmg05.png) |
-| 5  | Camp        | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083373/project215/j8ptw8s3hmnbfxkxu5ic.png) |
-| 6  | Voucher     | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083260/project215/wr83ondcasfnwzwt84gf.png) |
-| 7  | More        | ![](https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083268/project215/czbjnclggetupthc3hij.png) |
-
 ### 🌟 Popular Stays
 
 | Destination | Location           | Duration | Distance | Price | Rating |
