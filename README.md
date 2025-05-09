@@ -36,20 +36,12 @@ Global Explorer is a sleek and modern travel booking application that allows use
 
 ---
 
-## 🚧 Improvements To Be Made
-
-- Fix UI typos (e.g. “Journet” ➜ “Journey”, “Hawaie” ➜ “Hawaii”)
-- Improve layout spacing and text alignment for long descriptions
-- Add filters for ratings, prices, and distance
-- Add reviews, comments, and real-time availability
-
----
 
 ## ⚙️ Tech Stack (Suggested)
 
-- **Frontend:** Flutter / React Native  
-- **Backend:** Node.js + Express / Firebase  
-- **Database:** Firebase Firestore / MongoDB  
+- **Frontend:** XML
+- **Backend:** Java / Firebase  
+- **Database:** Firebase Firestore   
 - **Hosting & Media:** Cloudinary (used), Firebase Hosting
 
 ---
